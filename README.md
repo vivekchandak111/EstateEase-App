@@ -1,4 +1,4 @@
-# RealEstateApp
+# EstateEase-App
 
 Hello and welcome to my real estate project that has a functionality for people to list yachts as well.
 
